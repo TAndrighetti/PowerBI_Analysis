@@ -1,6 +1,6 @@
 ### Curso Power BI Analysis - DIO
 
-- Apresentação do Dashboard de análise da sample "Financial" do Power BI.
+- Apresentação do Dashboard de análise da sample "Financial" do Power BI, conforme solicitado no curso "Visualização e Análise de Dados com Power BI" da plataforma Digital Innovation One (DIO).
 -- [Link para o conjunto de dados](https://github.com/julianazanelatto/power_bi_analyst/blob/main/dataset/Financial%20Sample.xlsx "Link para o conjunto de dados")
 
 - O link para acesso ao projeto no PowerBI servide está abaixo:
